@@ -1,5 +1,5 @@
 # OrangemiumFolderShare
-Orangemium Folder Share is a Node.JS based server that lets you share folder over http
+Orangemium Folder Share is a Node.JS based server that lets you share and modify folder over http
 
 (please don't forget to type `npm install` before runing)
 # Command line parameters
